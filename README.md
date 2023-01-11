@@ -5,11 +5,10 @@ Instacart is an online grocery store looking to uncover more information about i
 ### Data
 The data used for this analysis is open source data provided by Instacart. It contains information on 3 million Insatacart orders. [The Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017)
 ### Tools
-Python (Jupyter Notebook)
-Librares used include:
+* Python (Jupyter Notebook)
 - pandas
 - numpy
 - scipy
 - matplotlib
 - seaborn
-Microsoft Excel
+* Microsoft Excel
